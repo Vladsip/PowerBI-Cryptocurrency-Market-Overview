@@ -18,7 +18,7 @@ Projekt slouží jako ukázka práce s daty, vizualizacemi a interaktivními prv
 - **Power BI Desktop**
 - **Power Query** (čištění a příprava dat)
 - **DAX** (výpočty, metriky)
-- Dataset: veřejně dostupné zdroje (CoinMarketCap, Alpha Vantage API, Kaggle)
+- Dataset: veřejně dostupné zdroje (Kaggle, CoinGecko)
 
 ---
 
@@ -26,11 +26,11 @@ Projekt slouží jako ukázka práce s daty, vizualizacemi a interaktivními prv
 
 ![Hometab](screenshots/Hometab.PNG)
 
-![Hometab](screenshots/Hometab.PNG)
+![Hometab](screenshots/Single_asset_overview.PNG)
 
-![Hometab](screenshots/Hometab.PNG)
+![Hometab](screenshots/Market_leaders.PNG)
 
-![Hometab](screenshots/Hometab.PNG)
+![Hometab](screenshots/Market_cycles.PNG)
 ---
 
 ## 📂 Struktura repozitáře
