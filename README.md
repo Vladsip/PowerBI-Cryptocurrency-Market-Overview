@@ -48,5 +48,3 @@ Power BI dashboard zaměřený na přehled trhu s kryptoměnami, jejich kapitali
 ![Market_cycles](screenshots/Market_cycles.PNG)
 
   
-
-## 📂 Struktura repozitáře
