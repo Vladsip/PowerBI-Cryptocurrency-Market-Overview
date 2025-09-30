@@ -23,10 +23,14 @@ Projekt slouží jako ukázka práce s daty, vizualizacemi a interaktivními prv
 ---
 
 ## 📷 Ukázka dashboardu
-*(doporučuji vložit screenshot nebo gif z prezentace)*
 
-![Dashboard preview](dashboard.png)
+![Hometab](screenshots/Hometab.PNG)
 
+![Hometab](screenshots/Hometab.PNG)
+
+![Hometab](screenshots/Hometab.PNG)
+
+![Hometab](screenshots/Hometab.PNG)
 ---
 
 ## 📂 Struktura repozitáře
