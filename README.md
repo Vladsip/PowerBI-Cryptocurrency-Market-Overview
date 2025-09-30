@@ -31,7 +31,7 @@ Power BI dashboard zaměřený na přehled trhu s kryptoměnami, jejich kapitali
 
 2️⃣ Jednotlivé aktivum / Single Asset Overview
 
-  - Detailní přehled jedné kryptoměny – cena, tržní kapitalizace, objem obchodů, grafy vývoje ceny a objemu.
+  - Detailní přehled jedné kryptoměny – cena, tržní kapitalizace, objem obchodů, grafy vývoje ceny a objemu, jakou hodnotu by měla investice 100$ za zvolené období.
  
 ![Asset_overview](screenshots/Single_assets_overview.PNG) 
 
@@ -43,7 +43,7 @@ Power BI dashboard zaměřený na přehled trhu s kryptoměnami, jejich kapitali
 
 4️⃣ Tržní cykly a globální zájem / Market Cycles & Global Interest
 
-  - Analýza tržních cyklů a hlavních událostí, které ovlivnily kryptoměnový trh. Vizualizace dopadů událostí na celkovou kapitalizaci.
+  - Analýza tržních cyklů a hlavních událostí, které ovlivnily kryptoměnový trh. Vizualizace dopadů událostí na celkovou kapitalizaci. Počet dnů mezi halvingem a nejvyšší cenou.
     
 ![Market_cycles](screenshots/Market_cycles.PNG)
 
